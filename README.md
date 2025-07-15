@@ -2,7 +2,7 @@
   <img src="https://github.com/ZainabSaif313/ZainabSaif313/blob/main/banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Zainab Saif</h1>
+<h1 align="center">Hello, I'm Zainab Saif </h1>
 <h3 align="center">💻 A passionate Cybersecurity student from Pakistan</h3>
 
 <p align="center">
